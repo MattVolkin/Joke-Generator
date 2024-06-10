@@ -19,7 +19,8 @@ This will be a Joke generator. It will have 2 forms an android app and a HTML we
     - [ ] All
   - [ ] Add comments
   - [ ] Add ability to add more types of jokes
-
+  - [ ] Text to Speech ?
+# Extra
 - [ ] HTML
   - [ ] Implement Big Red Button
     - [ ] JavaScript
